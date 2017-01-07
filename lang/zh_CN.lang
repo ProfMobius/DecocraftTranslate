@@ -61,9 +61,9 @@ text.props.gui.tab.Office=办公室
 text.props.gui.tab.Religion=宗教
 text.props.gui.tab.Art=艺术
 text.props.gui.tab.Trophies=战利品
-text.props.gui.tab.Stairs=Stairs
-text.props.gui.tab.Pets=Pets
-text.props.gui.tab.Market=Market
+text.props.gui.tab.Stairs=楼梯
+text.props.gui.tab.Pets=宠物
+text.props.gui.tab.Market=市场
 
 text.props.tooltip.resources_provided.0=提供粘土:
 text.props.tooltip.resources_provided.1=提供红色:
@@ -79,7 +79,7 @@ items.craftingclay.red.name=红色工艺粘土
 items.craftingclay.blue.name=蓝色工艺粘土
 items.craftingclay.green.name=绿色工艺粘土
 
-item.decowand.name=Decowand
+item.decowand.name=装饰手杖
 
 item.props.stuffed_creeper.name=毛绒爬行者
 item.props.wine_bottle.name=葡萄酒瓶
