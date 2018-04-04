@@ -65,14 +65,14 @@ text.props.gui.tab.Stairs=樓梯
 text.props.gui.tab.Pets=寵物
 text.props.gui.tab.Market=市集
 
-text.props.tooltip.resources_provided.0=提供粘土: 
-text.props.tooltip.resources_provided.1=提供紅色: 
-text.props.tooltip.resources_provided.2=提供綠色: 
-text.props.tooltip.resources_provided.3=提供藍色: 
-text.props.tooltip.resource_cost.0=消耗黏土: 
-text.props.tooltip.resource_cost.1=消耗紅色: 
-text.props.tooltip.resource_cost.2=消耗綠色: 
-text.props.tooltip.resource_cost.3=消耗藍色: 
+text.props.tooltip.resources_provided.0=提供粘土：
+text.props.tooltip.resources_provided.1=提供紅色：
+text.props.tooltip.resources_provided.2=提供綠色：
+text.props.tooltip.resources_provided.3=提供藍色：
+text.props.tooltip.resource_cost.0=消耗黏土：
+text.props.tooltip.resource_cost.1=消耗紅色：
+text.props.tooltip.resource_cost.2=消耗綠色：
+text.props.tooltip.resource_cost.3=消耗藍色：
 text.props.tooltip.saved_item=包含內部保存資料！
 
 items.craftingclay.red.name=紅色工藝粘土
